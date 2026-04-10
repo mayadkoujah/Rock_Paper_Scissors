@@ -1,0 +1,17 @@
+Start the Game: Run the script in your terminal using python filename.py.
+
+Set the Rounds: Enter the number of rounds you want to play when prompted.
+
+Choose Your Move: For each round, type your choice using the name or the number:
+
+1 for Rock
+
+2 for Paper
+
+3 for Scissors
+
+Check the Results: The computer will reveal its move, and the game will announce the winner of the round.
+
+Handle Ties: If you and the computer choose the same move, the round repeats until someone wins.
+
+Win the Match: The game tracks the score and crowns the overall winner once all rounds are finished.
